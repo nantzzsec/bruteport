@@ -1,0 +1,3 @@
+# Saat ini Bruteport hanya menggunakan Standard Library Python.
+# Tidak ada dependensi eksternal yang perlu diinstall.
+# Namun, file ini disediakan untuk pengembangan di masa mendatang.
