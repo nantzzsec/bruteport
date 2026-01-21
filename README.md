@@ -134,5 +134,6 @@ Penulis tidak bertanggung jawab atas penyalahgunaan tool ini untuk menyerang sis
 ---
 
 <div align="center">
-    Made with ❤️ and Python by <b>Bruteport Team</b>
+    Made with ❤️ and Python by <b>NantzzSec</b>
 </div>
+
